@@ -58,7 +58,7 @@ width: 21%;border-radius: 25px;
 background-color: rgb(247, 247, 247);
 text-align: center;
 box-shadow: 0 1px 2px rgba(0,0,0,0.15);
-transition: box-shadow 0.3s ease-in-out;
+transition: box-shadow 0.3s ease-in;
 
 }
 .nav-right-button:hover{
@@ -195,6 +195,7 @@ position: absolute;
 .bt2:hover{
     box-shadow: 0 10px 20px rgba(0,0,0,0.3);
     background-color: #32373b;
+    color: #f4f4f4;
 }
 .B-flex{
     display: flex;
@@ -282,9 +283,6 @@ position: absolute;
         padding: 0px 361px
     }
 
-    .B4-img{
-
-    }
     .B4-img img{
     
         margin-top: -143px;
