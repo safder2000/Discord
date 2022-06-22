@@ -22,6 +22,7 @@ padding-top: 6px;
 }
 .nav-logo:hover{
     cursor: pointer;
+  
 }
 .nav-mid{
 height: 110px;
@@ -41,6 +42,7 @@ font-size: 20px;
 .nav-mid-link:hover{
     text-decoration: underline;
     text-decoration-thickness:3px;
+    color:#fff;
 }
 .nav-right{
     height: 110px;
